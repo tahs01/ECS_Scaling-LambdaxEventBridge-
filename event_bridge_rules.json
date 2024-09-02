@@ -1,0 +1,5 @@
+{
+    "cluster": "CLUSTER_NAME",
+    "service_names": "SERVICE_NAME",
+    "service_desired_count": "5"
+  }
